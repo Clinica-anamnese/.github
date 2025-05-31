@@ -1,12 +1,21 @@
-## Hi there 👋
+### CLINICA ANAMNESE - UNISANTOS
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## PESSOAS
+
+# Grupo 1:
+André Henrique Tarquino de Oliveira - andre.oliveira@unisantos.br
+Felipe Lourenço Otero - felipe.otero@unisantos.br
+Leandro Sossai de Oliveira - leandro.sossai@unisantos.br
+Leonardo Salgado Calomino - leonardoscalomino@unisantos.br
+Pedro César da Silva Filho - pedro.silva@unisantos.br
+Samuel Santana Lucas - samuelsantana@unisantos.br
+
+# Grupo 2:
+Axel de Oliveira Palmeira - axelpalmeira@unisantos.br
+Billy Joe Ramos Santos - billyjoe@unisantos.br
+Gabriel Henrique Marques Rocha - gabrielhenrique@unisantos.br
+Giovane de Lima Souza Conceição - giovanelima@unisantos.br
+Kauan Vieira da Silva - kauanvieira@unisantos.br
+Kauê Santos Marques da Silva
